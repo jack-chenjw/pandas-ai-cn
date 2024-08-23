@@ -2,12 +2,12 @@
 为什么会有Pandas-ai-cn这个项目？
 1. PandasAI 没有中文文档；
 2. PandasAI 不支持中国地区常用的AI大模型；
-3. PandasAI 提示词和回答中，对中文的支持不太好；
+3. PandasAI 的提示词和回答中，对中文的支持不太好；
 4. PandasAI 对免费模型的支持较弱，不利于测试；
 5. PandasAI 提示词不透明；
 6. docker-compose 的兼容性不好。
 
-所以Fork了这个项目，希望适配中国用户的习惯和工具。
+所以Fork了这个项目，希望方便中文用户的使用。
 
 # 
 
@@ -21,7 +21,7 @@
 [![Downloads](https://static.pepy.tech/badge/pandasai)](https://pepy.tech/project/pandasai) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZnO-njhL7TBOYPZaqvMvGtsjckZKrv2E?usp=sharing)
 
-PandasAI 是一个 Python 平台，使用户可以使用自然语言向数据提问。它帮助非技术用户更自然地与数据互动，也帮助技术用户在处理数据时节省时间和精力。PandasAI-cn是PandasAI的中文和中国区适配版本。
+PandasAI 是一个 Python 平台，使用户可以使用自然语言向数据提问。它帮助非技术用户更自然地与数据互动，也帮助技术用户在处理数据时节省时间和精力。Pandas-ai-cn是PandasAI的中文区适配版本。
 
 # 🚀 部署 PandasAI
 
